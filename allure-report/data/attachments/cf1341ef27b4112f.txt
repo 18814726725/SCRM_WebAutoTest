@@ -1,0 +1,28 @@
+ Sun, 18 Aug 2019 15:59:28  INFO basepage.py wait_ele_visiable [ line:37 ] �ڵ�¼ҳ�桪�����û���ҳ��ȴ�('xpath', '// input[@name="phone"]')Ԫ�ؿɼ��ɹ�
+ Sun, 18 Aug 2019 15:59:28  INFO basepage.py wait_ele_visiable [ line:37 ] �ڵ�¼ҳ�桪�����û���ҳ��ȴ�('xpath', '// input[@name="phone"]')Ԫ�ؿɼ��ɹ�
+ Sun, 18 Aug 2019 15:59:28  INFO basepage.py find_ele [ line:65 ] �ڵ�¼ҳ�桪�����û�������('xpath', '// input[@name="phone"]')Ԫ�سɹ�����ʱΪ0:00:00.563023
+ Sun, 18 Aug 2019 15:59:29  INFO basepage.py input_text_ele [ line:94 ] �ڵ�¼ҳ�桪�����û���ҳ��('xpath', '// input[@name="phone"]')Ԫ������18684720553�ɹ�
+ Sun, 18 Aug 2019 15:59:29  INFO basepage.py wait_ele_visiable [ line:37 ] �ڵ�¼ҳ�桪��������ҳ��ȴ�('xpath', '//input[@name="password"]')Ԫ�ؿɼ��ɹ�
+ Sun, 18 Aug 2019 15:59:30  INFO basepage.py wait_ele_visiable [ line:37 ] �ڵ�¼ҳ�桪��������ҳ��ȴ�('xpath', '//input[@name="password"]')Ԫ�ؿɼ��ɹ�
+ Sun, 18 Aug 2019 15:59:30  INFO basepage.py find_ele [ line:65 ] �ڵ�¼ҳ�桪�����������('xpath', '//input[@name="password"]')Ԫ�سɹ�����ʱΪ0:00:00.559626
+ Sun, 18 Aug 2019 15:59:30  INFO basepage.py input_text_ele [ line:94 ] �ڵ�¼ҳ�桪��������ҳ��('xpath', '//input[@name="password"]')Ԫ������python�ɹ�
+ Sun, 18 Aug 2019 15:59:31  INFO basepage.py wait_ele_visiable [ line:37 ] �ڵ�½ҳ��-�������½����ťҳ��ȴ�('xpath', '//button[@class="btn btn-special"]')Ԫ�ؿɼ��ɹ�
+ Sun, 18 Aug 2019 15:59:31  INFO basepage.py wait_ele_visiable [ line:37 ] �ڵ�½ҳ��-�������½����ťҳ��ȴ�('xpath', '//button[@class="btn btn-special"]')Ԫ�ؿɼ��ɹ�
+ Sun, 18 Aug 2019 15:59:31  INFO basepage.py find_ele [ line:65 ] �ڵ�½ҳ��-�������½����ť����('xpath', '//button[@class="btn btn-special"]')Ԫ�سɹ�����ʱΪ0:00:00.584426
+ Sun, 18 Aug 2019 15:59:32  INFO basepage.py click_ele [ line:81 ] �ڵ�½ҳ��-�������½����ť���('xpath', '//button[@class="btn btn-special"]')Ԫ�سɹ�
+ Sun, 18 Aug 2019 16:00:02  ERROR basepage.py wait_ele_visiable [ line:32 ] �ȴ�('xpath', '//a[text()="�ҵ��ʻ�[python10]"]')Ԫ�ؿɼ�ʧ��
+Traceback (most recent call last):
+  File "D:\pytest_web_autotest\web_pageobject\basepage.py", line 29, in wait_ele_visiable
+    WebDriverWait(self.driver, timeout,frequency).until(EC.visibility_of_element_located(loc))
+  File "D:\Python\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+ Sun, 18 Aug 2019 16:00:04  ERROR basepage.py save_img [ line:162 ] ��ͼ�ɹ�����ͼ�����D:\pytest_web_autotest\Outputs/imgs\��ҳ-�û����˻��Ƿ����_2019-08-18 16_00_02.png
+Traceback (most recent call last):
+  File "D:\pytest_web_autotest\web_pageobject\basepage.py", line 29, in wait_ele_visiable
+    WebDriverWait(self.driver, timeout,frequency).until(EC.visibility_of_element_located(loc))
+  File "D:\Python\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+

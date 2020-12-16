@@ -1,0 +1,109 @@
+{
+  "uid" : "3db6e1406c855a06",
+  "name" : "test_login_nopasswd[data1]",
+  "fullName" : "web_autotestcase.test_0_login.TestLogin#test_login_nopasswd[data1]",
+  "historyId" : "95f32405b95c0dd260b1d75b044da343",
+  "time" : {
+    "start" : 1566035669965,
+    "stop" : 1566035671171,
+    "duration" : 1206
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "init_driver",
+    "time" : {
+      "start" : 1566035651773,
+      "stop" : 1566035669956,
+      "duration" : 18183
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "bf519a8ab1b1aeb1",
+      "name" : "log",
+      "source" : "bf519a8ab1b1aeb1.txt",
+      "type" : "text/plain",
+      "size" : 2296
+    }, {
+      "uid" : "e635abf09df7aaaa",
+      "name" : "stderr",
+      "source" : "e635abf09df7aaaa.txt",
+      "type" : "text/plain",
+      "size" : 2994
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 2,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ {
+    "name" : "init_driver::0",
+    "time" : {
+      "start" : 1566035671176,
+      "stop" : 1566035675273,
+      "duration" : 4097
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "subSuite",
+    "value" : "TestLogin"
+  }, {
+    "name" : "suite",
+    "value" : "test_0_login"
+  }, {
+    "name" : "parentSuite",
+    "value" : "web_autotestcase"
+  }, {
+    "name" : "host",
+    "value" : "TC-20180602OLZA"
+  }, {
+    "name" : "thread",
+    "value" : "3600-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "web_autotestcase.test_0_login"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "data",
+    "value" : "{'username': '', 'check': '请输入手机号', 'passwd': 'python'}"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3db6e1406c855a06.json",
+  "parameterValues" : [ "{'username': '', 'check': '请输入手机号', 'passwd': 'python'}" ]
+}

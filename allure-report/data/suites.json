@@ -1,0 +1,116 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "web_autotestcase",
+    "children" : [ {
+      "name" : "test_0_login",
+      "children" : [ {
+        "name" : "TestLogin",
+        "children" : [ {
+          "name" : "test_login_success",
+          "uid" : "94c29476c59b87b5",
+          "parentUid" : "d8c53725bd392ade1d0871dec99fa214",
+          "status" : "broken",
+          "time" : {
+            "start" : 1589607392097,
+            "stop" : 1589607392097,
+            "duration" : 0
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "test_login_nopasswd[data0]",
+          "uid" : "42f4dcebb5153b97",
+          "parentUid" : "d8c53725bd392ade1d0871dec99fa214",
+          "status" : "broken",
+          "time" : {
+            "start" : 1589607402050,
+            "stop" : 1589607402051,
+            "duration" : 1
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "{'username': '18684720553', 'passwd': '', 'check': '请输入密码'}" ]
+        }, {
+          "name" : "test_login_nopasswd[data1]",
+          "uid" : "bdc8da37e420ff67",
+          "parentUid" : "d8c53725bd392ade1d0871dec99fa214",
+          "status" : "broken",
+          "time" : {
+            "start" : 1589607407238,
+            "stop" : 1589607407238,
+            "duration" : 0
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "{'username': '', 'passwd': 'python', 'check': '请输入手机号'}" ]
+        }, {
+          "name" : "test_login_nopasswd[data2]",
+          "uid" : "99ea0689276bd6ad",
+          "parentUid" : "d8c53725bd392ade1d0871dec99fa214",
+          "status" : "broken",
+          "time" : {
+            "start" : 1589607412299,
+            "stop" : 1589607412299,
+            "duration" : 0
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "{'username': '186847205', 'passwd': 'python', 'check': '请输入正确的手机号'}" ]
+        }, {
+          "name" : "test_login_wrongpawwsd[data0]",
+          "uid" : "7c4176954c8c0a4f",
+          "parentUid" : "d8c53725bd392ade1d0871dec99fa214",
+          "status" : "broken",
+          "time" : {
+            "start" : 1589607417602,
+            "stop" : 1589607417602,
+            "duration" : 0
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "{'username': '18684720553', 'passwd': 'python4852', 'check': '帐号或密码错误!'}" ]
+        }, {
+          "name" : "test_login_wrongpawwsd[data1]",
+          "uid" : "ccfd48ec1b6c8555",
+          "parentUid" : "d8c53725bd392ade1d0871dec99fa214",
+          "status" : "broken",
+          "time" : {
+            "start" : 1589607422802,
+            "stop" : 1589607422802,
+            "duration" : 0
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "{'username': '18684720558', 'passwd': 'python', 'check': '此账号没有经过授权，请联系管理员!'}" ]
+        } ],
+        "uid" : "d8c53725bd392ade1d0871dec99fa214"
+      } ],
+      "uid" : "f6f9667cd420259a6ec04a097751f0df"
+    }, {
+      "name" : "test_1_invest",
+      "children" : [ {
+        "name" : "TestInvest",
+        "children" : [ {
+          "name" : "test_invest_sucess",
+          "uid" : "786e9bec5b112c86",
+          "parentUid" : "440fb20a9ba684754917ba61c12bbc19",
+          "status" : "broken",
+          "time" : {
+            "start" : 1589607428531,
+            "stop" : 1589607428531,
+            "duration" : 0
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "440fb20a9ba684754917ba61c12bbc19"
+      } ],
+      "uid" : "64acafe99d31226b51a69b19997233cf"
+    } ],
+    "uid" : "e8b0e8809502710484723b07363f7b5a"
+  } ]
+}

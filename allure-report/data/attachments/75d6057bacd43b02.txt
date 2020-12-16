@@ -1,0 +1,14 @@
+INFO     root:basepage.py:37 在登录页面—输入用户名页面等待('xpath', '// input[@name="phone"]')元素可见成功
+INFO     root:basepage.py:37 在登录页面—输入用户名页面等待('xpath', '// input[@name="phone"]')元素可见成功
+INFO     root:basepage.py:65 在登录页面—输入用户名查找('xpath', '// input[@name="phone"]')元素成功，耗时为0:00:00.554032
+INFO     root:basepage.py:94 在登录页面—输入用户名页面('xpath', '// input[@name="phone"]')元素输入18684720553成功
+INFO     root:basepage.py:37 在登录页面—输入密码页面等待('xpath', '//input[@name="password"]')元素可见成功
+INFO     root:basepage.py:37 在登录页面—输入密码页面等待('xpath', '//input[@name="password"]')元素可见成功
+INFO     root:basepage.py:65 在登录页面—输入密码查找('xpath', '//input[@name="password"]')元素成功，耗时为0:00:00.574632
+INFO     root:basepage.py:94 在登录页面—输入密码页面('xpath', '//input[@name="password"]')元素输入python成功
+INFO     root:basepage.py:37 在登陆页面-点击【登陆】按钮页面等待('xpath', '//button[@class="btn btn-special"]')元素可见成功
+INFO     root:basepage.py:37 在登陆页面-点击【登陆】按钮页面等待('xpath', '//button[@class="btn btn-special"]')元素可见成功
+INFO     root:basepage.py:65 在登陆页面-点击【登陆】按钮查找('xpath', '//button[@class="btn btn-special"]')元素成功，耗时为0:00:00.607233
+INFO     root:basepage.py:81 在登陆页面-点击【登陆】按钮点击('xpath', '//button[@class="btn btn-special"]')元素成功
+INFO     root:basepage.py:37 在首页-用户名账户是否存在页面等待('xpath', '//a[text()="我的帐户[python10]"]')元素可见成功
+INFO     root:basepage.py:65 在首页-用户名账户是否存在查找('xpath', '//a[text()="我的帐户[python10]"]')元素成功，耗时为0:00:22.529288

@@ -1,0 +1,16 @@
+ Sun, 18 Aug 2019 13:28:40  INFO basepage.py wait_ele_visiable [ line:37 ] �ڵ�¼ҳ�桪�����û���ҳ��ȴ�('xpath', '// input[@name="phone"]')Ԫ�ؿɼ��ɹ�
+ Sun, 18 Aug 2019 13:28:41  INFO basepage.py wait_ele_visiable [ line:37 ] �ڵ�¼ҳ�桪�����û���ҳ��ȴ�('xpath', '// input[@name="phone"]')Ԫ�ؿɼ��ɹ�
+ Sun, 18 Aug 2019 13:28:41  INFO basepage.py find_ele [ line:65 ] �ڵ�¼ҳ�桪�����û�������('xpath', '// input[@name="phone"]')Ԫ�سɹ�����ʱΪ0:00:01.107654
+ Sun, 18 Aug 2019 13:28:42  INFO basepage.py input_text_ele [ line:94 ] �ڵ�¼ҳ�桪�����û���ҳ��('xpath', '// input[@name="phone"]')Ԫ������186847205�ɹ�
+ Sun, 18 Aug 2019 13:28:43  INFO basepage.py wait_ele_visiable [ line:37 ] �ڵ�¼ҳ�桪��������ҳ��ȴ�('xpath', '//input[@name="password"]')Ԫ�ؿɼ��ɹ�
+ Sun, 18 Aug 2019 13:28:43  INFO basepage.py wait_ele_visiable [ line:37 ] �ڵ�¼ҳ�桪��������ҳ��ȴ�('xpath', '//input[@name="password"]')Ԫ�ؿɼ��ɹ�
+ Sun, 18 Aug 2019 13:28:44  INFO basepage.py find_ele [ line:65 ] �ڵ�¼ҳ�桪�����������('xpath', '//input[@name="password"]')Ԫ�سɹ�����ʱΪ0:00:00.922035
+ Sun, 18 Aug 2019 13:28:44  INFO basepage.py input_text_ele [ line:94 ] �ڵ�¼ҳ�桪��������ҳ��('xpath', '//input[@name="password"]')Ԫ������python�ɹ�
+ Sun, 18 Aug 2019 13:28:45  INFO basepage.py wait_ele_visiable [ line:37 ] �ڵ�½ҳ��-�������½����ťҳ��ȴ�('xpath', '//button[@class="btn btn-special"]')Ԫ�ؿɼ��ɹ�
+ Sun, 18 Aug 2019 13:28:46  INFO basepage.py wait_ele_visiable [ line:37 ] �ڵ�½ҳ��-�������½����ťҳ��ȴ�('xpath', '//button[@class="btn btn-special"]')Ԫ�ؿɼ��ɹ�
+ Sun, 18 Aug 2019 13:28:46  INFO basepage.py find_ele [ line:65 ] �ڵ�½ҳ��-�������½����ť����('xpath', '//button[@class="btn btn-special"]')Ԫ�سɹ�����ʱΪ0:00:01.107262
+ Sun, 18 Aug 2019 13:28:47  INFO basepage.py click_ele [ line:81 ] �ڵ�½ҳ��-�������½����ť���('xpath', '//button[@class="btn btn-special"]')Ԫ�سɹ�
+ Sun, 18 Aug 2019 13:28:48  INFO basepage.py wait_ele_visiable [ line:37 ] �ڵ�¼ҳ��-��ȡ�û���������Ϊ�յ���ʾҳ��ȴ�('xpath', '//div[@class="form-error-info"]')Ԫ�ؿɼ��ɹ�
+ Sun, 18 Aug 2019 13:28:49  INFO basepage.py wait_ele_visiable [ line:37 ] �ڵ�¼ҳ��-��ȡ�û���������Ϊ�յ���ʾҳ��ȴ�('xpath', '//div[@class="form-error-info"]')Ԫ�ؿɼ��ɹ�
+ Sun, 18 Aug 2019 13:28:49  INFO basepage.py find_ele [ line:65 ] �ڵ�¼ҳ��-��ȡ�û���������Ϊ�յ���ʾ����('xpath', '//div[@class="form-error-info"]')Ԫ�سɹ�����ʱΪ0:00:01.063061
+ Sun, 18 Aug 2019 13:28:49  INFO basepage.py get_text_ele [ line:109 ] �ڵ�¼ҳ��-��ȡ�û���������Ϊ�յ���ʾҳ���ȡ('xpath', '//div[@class="form-error-info"]')Ԫ�ص��ı�ֵ�ɹ�

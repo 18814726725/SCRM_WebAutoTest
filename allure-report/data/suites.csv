@@ -1,0 +1,8 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"broken","Sat May 16 13:36:52 CST 2020","Sat May 16 13:36:52 CST 2020","0","web_autotestcase","test_0_login","TestLogin","","","test_login_nopasswd[data2]",""
+"broken","Sat May 16 13:37:02 CST 2020","Sat May 16 13:37:02 CST 2020","0","web_autotestcase","test_0_login","TestLogin","","","test_login_wrongpawwsd[data1]",""
+"broken","Sat May 16 13:36:57 CST 2020","Sat May 16 13:36:57 CST 2020","0","web_autotestcase","test_0_login","TestLogin","","","test_login_wrongpawwsd[data0]",""
+"broken","Sat May 16 13:37:08 CST 2020","Sat May 16 13:37:08 CST 2020","0","web_autotestcase","test_1_invest","TestInvest","","","test_invest_sucess",""
+"broken","Sat May 16 13:36:32 CST 2020","Sat May 16 13:36:32 CST 2020","0","web_autotestcase","test_0_login","TestLogin","","","test_login_success",""
+"broken","Sat May 16 13:36:42 CST 2020","Sat May 16 13:36:42 CST 2020","1","web_autotestcase","test_0_login","TestLogin","","","test_login_nopasswd[data0]",""
+"broken","Sat May 16 13:36:47 CST 2020","Sat May 16 13:36:47 CST 2020","0","web_autotestcase","test_0_login","TestLogin","","","test_login_nopasswd[data1]",""

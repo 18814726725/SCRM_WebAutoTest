@@ -1,0 +1,166 @@
+{
+  "uid" : "1352513f9f8f6d4",
+  "name" : "test_invest_sucess",
+  "fullName" : "web_autotestcase.test_1_invest.TestInvest#test_invest_sucess",
+  "historyId" : "7fb3fa9ca2d3a385100a7281da38291d",
+  "time" : {
+    "start" : 1566106218212,
+    "stop" : 1566106250259,
+    "duration" : 32047
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "login_web",
+    "time" : {
+      "start" : 1566106166951,
+      "stop" : 1566106171533,
+      "duration" : 4582
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "stepsCount" : 0,
+    "hasContent" : false
+  }, {
+    "name" : "init",
+    "time" : {
+      "start" : 1566106171534,
+      "stop" : 1566106218204,
+      "duration" : 46670
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "stepsCount" : 0,
+    "hasContent" : false
+  }, {
+    "name" : "init_driver",
+    "time" : {
+      "start" : 1566106161375,
+      "stop" : 1566106166950,
+      "duration" : 5575
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "93f93828072165ab",
+      "name" : "log",
+      "source" : "93f93828072165ab.txt",
+      "type" : "text/plain",
+      "size" : 5882
+    }, {
+      "uid" : "391b0112aea31753",
+      "name" : "stderr",
+      "source" : "391b0112aea31753.txt",
+      "type" : "text/plain",
+      "size" : 8447
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 2,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ {
+    "name" : "login_web::0",
+    "time" : {
+      "start" : 1566106250272,
+      "stop" : 1566106250272,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "stepsCount" : 0,
+    "hasContent" : false
+  }, {
+    "name" : "init::0",
+    "time" : {
+      "start" : 1566106250261,
+      "stop" : 1566106250262,
+      "duration" : 1
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "stepsCount" : 0,
+    "hasContent" : false
+  }, {
+    "name" : "init_driver::0",
+    "time" : {
+      "start" : 1566106250282,
+      "stop" : 1566106253283,
+      "duration" : 3001
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "web_autotestcase"
+  }, {
+    "name" : "suite",
+    "value" : "test_1_invest"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestInvest"
+  }, {
+    "name" : "host",
+    "value" : "ZD-20151030HOQR"
+  }, {
+    "name" : "thread",
+    "value" : "11988-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "web_autotestcase.test_1_invest"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "1352513f9f8f6d4.json",
+  "parameterValues" : [ ]
+}

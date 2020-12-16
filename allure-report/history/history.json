@@ -1,0 +1,411 @@
+{
+  "3c08fb94ca0927a81b8fcdf7ad249282" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 13,
+      "skipped" : 0,
+      "passed" : 7,
+      "unknown" : 0,
+      "total" : 20
+    },
+    "items" : [ {
+      "uid" : "7c4176954c8c0a4f",
+      "reportUrl" : "http://localhost:8080/job/web_autotest/28/allure/#testresult/7c4176954c8c0a4f",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.SessionNotCreatedException: Message: session not created: This version of ChromeDriver only supports Chrome version 78",
+      "time" : {
+        "start" : 1589607417602,
+        "stop" : 1589607417602,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "339bffccd4d7592c",
+      "reportUrl" : "http://172.25.40.46:8080/job/web_autotest/27/allure/#testresult/339bffccd4d7592c",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.SessionNotCreatedException: Message: session not created: This version of ChromeDriver only supports Chrome version 78",
+      "time" : {
+        "start" : 1588944607639,
+        "stop" : 1588944607639,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "1284fc7622cc91b3",
+      "reportUrl" : "http://172.25.40.46:8080/job/web_autotest/26/allure/#testresult/1284fc7622cc91b3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1566119934798,
+        "stop" : 1566119941231,
+        "duration" : 6433
+      }
+    }, {
+      "uid" : "4cdb297eae65987b",
+      "reportUrl" : "http://172.25.40.46:8080/job/web_autotest/25/allure/#testresult/4cdb297eae65987b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1566115256720,
+        "stop" : 1566115263199,
+        "duration" : 6479
+      }
+    }, {
+      "uid" : "7a25ac8249c21641",
+      "reportUrl" : "http://172.25.40.46:8080/job/web_autotest/24/allure/#testresult/7a25ac8249c21641",
+      "status" : "passed",
+      "time" : {
+        "start" : 1566115000025,
+        "stop" : 1566115005981,
+        "duration" : 5956
+      }
+    } ]
+  },
+  "9ef2e0b450001c07eeee5b13f8558f16" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 13,
+      "skipped" : 0,
+      "passed" : 7,
+      "unknown" : 0,
+      "total" : 20
+    },
+    "items" : [ {
+      "uid" : "ccfd48ec1b6c8555",
+      "reportUrl" : "http://localhost:8080/job/web_autotest/28/allure/#testresult/ccfd48ec1b6c8555",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.SessionNotCreatedException: Message: session not created: This version of ChromeDriver only supports Chrome version 78",
+      "time" : {
+        "start" : 1589607422802,
+        "stop" : 1589607422802,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "19c1bd4554021449",
+      "reportUrl" : "http://172.25.40.46:8080/job/web_autotest/27/allure/#testresult/19c1bd4554021449",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.SessionNotCreatedException: Message: session not created: This version of ChromeDriver only supports Chrome version 78",
+      "time" : {
+        "start" : 1588944612230,
+        "stop" : 1588944612230,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "cb003a4e9992dc9d",
+      "reportUrl" : "http://172.25.40.46:8080/job/web_autotest/26/allure/#testresult/cb003a4e9992dc9d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1566119948857,
+        "stop" : 1566119955737,
+        "duration" : 6880
+      }
+    }, {
+      "uid" : "48f1cec19518a9f8",
+      "reportUrl" : "http://172.25.40.46:8080/job/web_autotest/25/allure/#testresult/48f1cec19518a9f8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1566115270890,
+        "stop" : 1566115277245,
+        "duration" : 6355
+      }
+    }, {
+      "uid" : "82e76daa13f1894d",
+      "reportUrl" : "http://172.25.40.46:8080/job/web_autotest/24/allure/#testresult/82e76daa13f1894d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1566115014722,
+        "stop" : 1566115020610,
+        "duration" : 5888
+      }
+    } ]
+  },
+  "95f32405b95c0dd260b1d75b044da343" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 13,
+      "skipped" : 0,
+      "passed" : 7,
+      "unknown" : 0,
+      "total" : 20
+    },
+    "items" : [ {
+      "uid" : "bdc8da37e420ff67",
+      "reportUrl" : "http://localhost:8080/job/web_autotest/28/allure/#testresult/bdc8da37e420ff67",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.SessionNotCreatedException: Message: session not created: This version of ChromeDriver only supports Chrome version 78",
+      "time" : {
+        "start" : 1589607407238,
+        "stop" : 1589607407238,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "712202d5e90829ee",
+      "reportUrl" : "http://172.25.40.46:8080/job/web_autotest/27/allure/#testresult/712202d5e90829ee",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.SessionNotCreatedException: Message: session not created: This version of ChromeDriver only supports Chrome version 78",
+      "time" : {
+        "start" : 1588944599151,
+        "stop" : 1588944599151,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "ee4f5406a257e062",
+      "reportUrl" : "http://172.25.40.46:8080/job/web_autotest/26/allure/#testresult/ee4f5406a257e062",
+      "status" : "passed",
+      "time" : {
+        "start" : 1566119901309,
+        "stop" : 1566119908634,
+        "duration" : 7325
+      }
+    }, {
+      "uid" : "186fdcb28aae86eb",
+      "reportUrl" : "http://172.25.40.46:8080/job/web_autotest/25/allure/#testresult/186fdcb28aae86eb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1566115228384,
+        "stop" : 1566115234733,
+        "duration" : 6349
+      }
+    }, {
+      "uid" : "68f9cb5e31332e54",
+      "reportUrl" : "http://172.25.40.46:8080/job/web_autotest/24/allure/#testresult/68f9cb5e31332e54",
+      "status" : "passed",
+      "time" : {
+        "start" : 1566114972389,
+        "stop" : 1566114977750,
+        "duration" : 5361
+      }
+    } ]
+  },
+  "98a87304ce96fc2f9d9808479679ab6b" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 13,
+      "skipped" : 0,
+      "passed" : 7,
+      "unknown" : 0,
+      "total" : 20
+    },
+    "items" : [ {
+      "uid" : "42f4dcebb5153b97",
+      "reportUrl" : "http://localhost:8080/job/web_autotest/28/allure/#testresult/42f4dcebb5153b97",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.SessionNotCreatedException: Message: session not created: This version of ChromeDriver only supports Chrome version 78",
+      "time" : {
+        "start" : 1589607402050,
+        "stop" : 1589607402051,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "457f33aba7fd87bb",
+      "reportUrl" : "http://172.25.40.46:8080/job/web_autotest/27/allure/#testresult/457f33aba7fd87bb",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.SessionNotCreatedException: Message: session not created: This version of ChromeDriver only supports Chrome version 78",
+      "time" : {
+        "start" : 1588944595045,
+        "stop" : 1588944595045,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "e4a068b280643775",
+      "reportUrl" : "http://172.25.40.46:8080/job/web_autotest/26/allure/#testresult/e4a068b280643775",
+      "status" : "passed",
+      "time" : {
+        "start" : 1566119887668,
+        "stop" : 1566119893707,
+        "duration" : 6039
+      }
+    }, {
+      "uid" : "698151187c7959bf",
+      "reportUrl" : "http://172.25.40.46:8080/job/web_autotest/25/allure/#testresult/698151187c7959bf",
+      "status" : "passed",
+      "time" : {
+        "start" : 1566115212591,
+        "stop" : 1566115219308,
+        "duration" : 6717
+      }
+    }, {
+      "uid" : "8bbfd994378cf133",
+      "reportUrl" : "http://172.25.40.46:8080/job/web_autotest/24/allure/#testresult/8bbfd994378cf133",
+      "status" : "passed",
+      "time" : {
+        "start" : 1566114958177,
+        "stop" : 1566114964080,
+        "duration" : 5903
+      }
+    } ]
+  },
+  "8b0d440bd6edc8eaf09efa1af80d8899" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 12,
+      "skipped" : 0,
+      "passed" : 7,
+      "unknown" : 0,
+      "total" : 20
+    },
+    "items" : [ {
+      "uid" : "94c29476c59b87b5",
+      "reportUrl" : "http://localhost:8080/job/web_autotest/28/allure/#testresult/94c29476c59b87b5",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.SessionNotCreatedException: Message: session not created: This version of ChromeDriver only supports Chrome version 78",
+      "time" : {
+        "start" : 1589607392097,
+        "stop" : 1589607392097,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "f32dd3bc00427f15",
+      "reportUrl" : "http://172.25.40.46:8080/job/web_autotest/27/allure/#testresult/f32dd3bc00427f15",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.SessionNotCreatedException: Message: session not created: This version of ChromeDriver only supports Chrome version 78",
+      "time" : {
+        "start" : 1588944588907,
+        "stop" : 1588944588907,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "10c2ca2a884d3df8",
+      "reportUrl" : "http://172.25.40.46:8080/job/web_autotest/26/allure/#testresult/10c2ca2a884d3df8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1566119852271,
+        "stop" : 1566119879562,
+        "duration" : 27291
+      }
+    }, {
+      "uid" : "af4ab421d36497ca",
+      "reportUrl" : "http://172.25.40.46:8080/job/web_autotest/25/allure/#testresult/af4ab421d36497ca",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: assert False\n +  where False = <bound method IndexPage.check_userName_exists of <web_pageobject.index_page.IndexPage object at 0x000000000326C2B0>>()\n +    where <bound method IndexPage.check_userName_exists of <web_pageobject.index_page.IndexPage object at 0x000000000326C2B0>> = <web_pageobject.index_page.IndexPage object at 0x000000000326C2B0>.check_userName_exists\n +      where <web_pageobject.index_page.IndexPage object at 0x000000000326C2B0> = IndexPage(<selenium.webdriver.chrome.webdriver.WebDriver (session=\"e1c42853950c0e27e2c0c0bcf1de7338\")>)",
+      "time" : {
+        "start" : 1566115167594,
+        "stop" : 1566115204119,
+        "duration" : 36525
+      }
+    }, {
+      "uid" : "925893a6d9e42dd9",
+      "reportUrl" : "http://172.25.40.46:8080/job/web_autotest/24/allure/#testresult/925893a6d9e42dd9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1566114921702,
+        "stop" : 1566114949753,
+        "duration" : 28051
+      }
+    } ]
+  },
+  "958c4fcbc6ec8962f5ab420130ff1e10" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 13,
+      "skipped" : 0,
+      "passed" : 7,
+      "unknown" : 0,
+      "total" : 20
+    },
+    "items" : [ {
+      "uid" : "99ea0689276bd6ad",
+      "reportUrl" : "http://localhost:8080/job/web_autotest/28/allure/#testresult/99ea0689276bd6ad",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.SessionNotCreatedException: Message: session not created: This version of ChromeDriver only supports Chrome version 78",
+      "time" : {
+        "start" : 1589607412299,
+        "stop" : 1589607412299,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "cc7804ab61b54a22",
+      "reportUrl" : "http://172.25.40.46:8080/job/web_autotest/27/allure/#testresult/cc7804ab61b54a22",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.SessionNotCreatedException: Message: session not created: This version of ChromeDriver only supports Chrome version 78",
+      "time" : {
+        "start" : 1588944603405,
+        "stop" : 1588944603405,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "90edd50c5a3aa7a5",
+      "reportUrl" : "http://172.25.40.46:8080/job/web_autotest/26/allure/#testresult/90edd50c5a3aa7a5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1566119917231,
+        "stop" : 1566119923722,
+        "duration" : 6491
+      }
+    }, {
+      "uid" : "357e14064ca9431e",
+      "reportUrl" : "http://172.25.40.46:8080/job/web_autotest/25/allure/#testresult/357e14064ca9431e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1566115242390,
+        "stop" : 1566115248836,
+        "duration" : 6446
+      }
+    }, {
+      "uid" : "556b38e6d5a218a2",
+      "reportUrl" : "http://172.25.40.46:8080/job/web_autotest/24/allure/#testresult/556b38e6d5a218a2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1566114986196,
+        "stop" : 1566114991794,
+        "duration" : 5598
+      }
+    } ]
+  },
+  "7fb3fa9ca2d3a385100a7281da38291d" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 15,
+      "skipped" : 0,
+      "passed" : 5,
+      "unknown" : 0,
+      "total" : 20
+    },
+    "items" : [ {
+      "uid" : "786e9bec5b112c86",
+      "reportUrl" : "http://localhost:8080/job/web_autotest/28/allure/#testresult/786e9bec5b112c86",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.SessionNotCreatedException: Message: session not created: This version of ChromeDriver only supports Chrome version 78",
+      "time" : {
+        "start" : 1589607428531,
+        "stop" : 1589607428531,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "48f13af14f276389",
+      "reportUrl" : "http://172.25.40.46:8080/job/web_autotest/27/allure/#testresult/48f13af14f276389",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.SessionNotCreatedException: Message: session not created: This version of ChromeDriver only supports Chrome version 78",
+      "time" : {
+        "start" : 1588944616562,
+        "stop" : 1588944616562,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "cb0b447a662377e5",
+      "reportUrl" : "http://172.25.40.46:8080/job/web_autotest/26/allure/#testresult/cb0b447a662377e5",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.TimeoutException: Message:",
+      "time" : {
+        "start" : 1566120019266,
+        "stop" : 1566120055727,
+        "duration" : 36461
+      }
+    }, {
+      "uid" : "e2654b2cd4b0fc9b",
+      "reportUrl" : "http://172.25.40.46:8080/job/web_autotest/25/allure/#testresult/e2654b2cd4b0fc9b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1566115336218,
+        "stop" : 1566115368993,
+        "duration" : 32775
+      }
+    }, {
+      "uid" : "43777d47412f6f2e",
+      "reportUrl" : "http://172.25.40.46:8080/job/web_autotest/24/allure/#testresult/43777d47412f6f2e",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.TimeoutException: Message:",
+      "time" : {
+        "start" : 1566115081956,
+        "stop" : 1566115117684,
+        "duration" : 35728
+      }
+    } ]
+  }
+}

@@ -1,0 +1,119 @@
+{
+  "uid" : "b9b17df6af34a7de",
+  "name" : "test_login_success",
+  "fullName" : "web_autotestcase.test_0_login.TestLogin#test_login_success",
+  "historyId" : "8b0d440bd6edc8eaf09efa1af80d8899",
+  "time" : {
+    "start" : 1566115167594,
+    "stop" : 1566115204119,
+    "duration" : 36525
+  },
+  "status" : "failed",
+  "statusMessage" : "AssertionError: assert False\n +  where False = <bound method IndexPage.check_userName_exists of <web_pageobject.index_page.IndexPage object at 0x000000000326C2B0>>()\n +    where <bound method IndexPage.check_userName_exists of <web_pageobject.index_page.IndexPage object at 0x000000000326C2B0>> = <web_pageobject.index_page.IndexPage object at 0x000000000326C2B0>.check_userName_exists\n +      where <web_pageobject.index_page.IndexPage object at 0x000000000326C2B0> = IndexPage(<selenium.webdriver.chrome.webdriver.WebDriver (session=\"e1c42853950c0e27e2c0c0bcf1de7338\")>)",
+  "statusTrace" : "self = <web_autotestcase.test_0_login.TestLogin object at 0x00000000032617B8>\ninit_driver = <selenium.webdriver.chrome.webdriver.WebDriver (session=\"e1c42853950c0e27e2c0c0bcf1de7338\")>\n\n    @pytest.mark.smoke\n    def test_login_success(self,init_driver):  # fixture的函数名称，作为参数传给测试用例。函数名称等于fixture执行后的返回值\n        # 用例 =  登录页的登陆功能 + 首页的检查用户昵称存在的功能\n        # 操作步骤\n        LoginPage(init_driver).login(ld.success['username'],ld.success['passwd'])\n        # 断言 -页面是否存在  我的账户 元素   元素定位 + 元素操作\n>       assert IndexPage(init_driver).check_userName_exists()   # 测试对象+测试数据\nE       assert False\nE        +  where False = <bound method IndexPage.check_userName_exists of <web_pageobject.index_page.IndexPage object at 0x000000000326C2B0>>()\nE        +    where <bound method IndexPage.check_userName_exists of <web_pageobject.index_page.IndexPage object at 0x000000000326C2B0>> = <web_pageobject.index_page.IndexPage object at 0x000000000326C2B0>.check_userName_exists\nE        +      where <web_pageobject.index_page.IndexPage object at 0x000000000326C2B0> = IndexPage(<selenium.webdriver.chrome.webdriver.WebDriver (session=\"e1c42853950c0e27e2c0c0bcf1de7338\")>)\n\nweb_autotestcase\\test_0_login.py:29: AssertionError",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "init_driver",
+    "time" : {
+      "start" : 1566115147511,
+      "stop" : 1566115167591,
+      "duration" : 20080
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "testStage" : {
+    "status" : "failed",
+    "statusMessage" : "AssertionError: assert False\n +  where False = <bound method IndexPage.check_userName_exists of <web_pageobject.index_page.IndexPage object at 0x000000000326C2B0>>()\n +    where <bound method IndexPage.check_userName_exists of <web_pageobject.index_page.IndexPage object at 0x000000000326C2B0>> = <web_pageobject.index_page.IndexPage object at 0x000000000326C2B0>.check_userName_exists\n +      where <web_pageobject.index_page.IndexPage object at 0x000000000326C2B0> = IndexPage(<selenium.webdriver.chrome.webdriver.WebDriver (session=\"e1c42853950c0e27e2c0c0bcf1de7338\")>)",
+    "statusTrace" : "self = <web_autotestcase.test_0_login.TestLogin object at 0x00000000032617B8>\ninit_driver = <selenium.webdriver.chrome.webdriver.WebDriver (session=\"e1c42853950c0e27e2c0c0bcf1de7338\")>\n\n    @pytest.mark.smoke\n    def test_login_success(self,init_driver):  # fixture的函数名称，作为参数传给测试用例。函数名称等于fixture执行后的返回值\n        # 用例 =  登录页的登陆功能 + 首页的检查用户昵称存在的功能\n        # 操作步骤\n        LoginPage(init_driver).login(ld.success['username'],ld.success['passwd'])\n        # 断言 -页面是否存在  我的账户 元素   元素定位 + 元素操作\n>       assert IndexPage(init_driver).check_userName_exists()   # 测试对象+测试数据\nE       assert False\nE        +  where False = <bound method IndexPage.check_userName_exists of <web_pageobject.index_page.IndexPage object at 0x000000000326C2B0>>()\nE        +    where <bound method IndexPage.check_userName_exists of <web_pageobject.index_page.IndexPage object at 0x000000000326C2B0>> = <web_pageobject.index_page.IndexPage object at 0x000000000326C2B0>.check_userName_exists\nE        +      where <web_pageobject.index_page.IndexPage object at 0x000000000326C2B0> = IndexPage(<selenium.webdriver.chrome.webdriver.WebDriver (session=\"e1c42853950c0e27e2c0c0bcf1de7338\")>)\n\nweb_autotestcase\\test_0_login.py:29: AssertionError",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "ebbe8e22d8801063",
+      "name" : "log",
+      "source" : "ebbe8e22d8801063.txt",
+      "type" : "text/plain",
+      "size" : 2752
+    }, {
+      "uid" : "ab0d5250bc55156a",
+      "name" : "stdout",
+      "source" : "ab0d5250bc55156a.txt",
+      "type" : "text/plain",
+      "size" : 20
+    }, {
+      "uid" : "cf1341ef27b4112f",
+      "name" : "stderr",
+      "source" : "cf1341ef27b4112f.txt",
+      "type" : "text/plain",
+      "size" : 3644
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : true,
+    "attachmentsCount" : 3,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ {
+    "name" : "init_driver::0",
+    "time" : {
+      "start" : 1566115204268,
+      "stop" : 1566115207001,
+      "duration" : 2733
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "tag",
+    "value" : "smoke"
+  }, {
+    "name" : "parentSuite",
+    "value" : "web_autotestcase"
+  }, {
+    "name" : "suite",
+    "value" : "test_0_login"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestLogin"
+  }, {
+    "name" : "host",
+    "value" : "ZD-20151030HOQR"
+  }, {
+    "name" : "thread",
+    "value" : "21560-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "web_autotestcase.test_0_login"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ "smoke" ]
+  },
+  "source" : "b9b17df6af34a7de.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,109 @@
+{
+  "uid" : "e56ea6c3f433dfd4",
+  "name" : "test_login_success",
+  "fullName" : "web_autotestcase.test_0_login.TestLogin#test_login_success",
+  "historyId" : "8b0d440bd6edc8eaf09efa1af80d8899",
+  "time" : {
+    "start" : 1566045818399,
+    "stop" : 1566045844399,
+    "duration" : 26000
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "init_driver",
+    "time" : {
+      "start" : 1566045790904,
+      "stop" : 1566045818342,
+      "duration" : 27438
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "30819d451132649c",
+      "name" : "log",
+      "source" : "30819d451132649c.txt",
+      "type" : "text/plain",
+      "size" : 1956
+    }, {
+      "uid" : "12b1bea9a8a2ee6e",
+      "name" : "stderr",
+      "source" : "12b1bea9a8a2ee6e.txt",
+      "type" : "text/plain",
+      "size" : 2565
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 2,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ {
+    "name" : "init_driver::0",
+    "time" : {
+      "start" : 1566045844401,
+      "stop" : 1566045848847,
+      "duration" : 4446
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "tag",
+    "value" : "smoke"
+  }, {
+    "name" : "suite",
+    "value" : "test_0_login"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestLogin"
+  }, {
+    "name" : "parentSuite",
+    "value" : "web_autotestcase"
+  }, {
+    "name" : "host",
+    "value" : "TC-20180602OLZA"
+  }, {
+    "name" : "thread",
+    "value" : "23220-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "web_autotestcase.test_0_login"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ "smoke" ]
+  },
+  "source" : "e56ea6c3f433dfd4.json",
+  "parameterValues" : [ ]
+}

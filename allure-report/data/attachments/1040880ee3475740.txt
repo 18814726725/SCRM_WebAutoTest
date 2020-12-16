@@ -1,0 +1,16 @@
+ Sun, 18 Aug 2019 17:19:09  INFO basepage.py wait_ele_visiable [ line:37 ] �ڵ�¼ҳ�桪�����û���ҳ��ȴ�('xpath', '// input[@name="phone"]')Ԫ�ؿɼ��ɹ�
+ Sun, 18 Aug 2019 17:19:09  INFO basepage.py wait_ele_visiable [ line:37 ] �ڵ�¼ҳ�桪�����û���ҳ��ȴ�('xpath', '// input[@name="phone"]')Ԫ�ؿɼ��ɹ�
+ Sun, 18 Aug 2019 17:19:10  INFO basepage.py find_ele [ line:65 ] �ڵ�¼ҳ�桪�����û�������('xpath', '// input[@name="phone"]')Ԫ�سɹ�����ʱΪ0:00:00.720636
+ Sun, 18 Aug 2019 17:19:10  INFO basepage.py input_text_ele [ line:94 ] �ڵ�¼ҳ�桪�����û���ҳ��('xpath', '// input[@name="phone"]')Ԫ������18684720558�ɹ�
+ Sun, 18 Aug 2019 17:19:11  INFO basepage.py wait_ele_visiable [ line:37 ] �ڵ�¼ҳ�桪��������ҳ��ȴ�('xpath', '//input[@name="password"]')Ԫ�ؿɼ��ɹ�
+ Sun, 18 Aug 2019 17:19:11  INFO basepage.py wait_ele_visiable [ line:37 ] �ڵ�¼ҳ�桪��������ҳ��ȴ�('xpath', '//input[@name="password"]')Ԫ�ؿɼ��ɹ�
+ Sun, 18 Aug 2019 17:19:11  INFO basepage.py find_ele [ line:65 ] �ڵ�¼ҳ�桪�����������('xpath', '//input[@name="password"]')Ԫ�سɹ�����ʱΪ0:00:00.685035
+ Sun, 18 Aug 2019 17:19:12  INFO basepage.py input_text_ele [ line:94 ] �ڵ�¼ҳ�桪��������ҳ��('xpath', '//input[@name="password"]')Ԫ������python�ɹ�
+ Sun, 18 Aug 2019 17:19:13  INFO basepage.py wait_ele_visiable [ line:37 ] �ڵ�½ҳ��-�������½����ťҳ��ȴ�('xpath', '//button[@class="btn btn-special"]')Ԫ�ؿɼ��ɹ�
+ Sun, 18 Aug 2019 17:19:13  INFO basepage.py wait_ele_visiable [ line:37 ] �ڵ�½ҳ��-�������½����ťҳ��ȴ�('xpath', '//button[@class="btn btn-special"]')Ԫ�ؿɼ��ɹ�
+ Sun, 18 Aug 2019 17:19:13  INFO basepage.py find_ele [ line:65 ] �ڵ�½ҳ��-�������½����ť����('xpath', '//button[@class="btn btn-special"]')Ԫ�سɹ�����ʱΪ0:00:00.695639
+ Sun, 18 Aug 2019 17:19:14  INFO basepage.py click_ele [ line:81 ] �ڵ�½ҳ��-�������½����ť���('xpath', '//button[@class="btn btn-special"]')Ԫ�سɹ�
+ Sun, 18 Aug 2019 17:19:14  INFO basepage.py wait_ele_visiable [ line:37 ] �ڵ�¼ҳ��-��ȡ�м�ҳ����ʾ��Ϣҳ��ȴ�('xpath', '//div[@class ="layui-layer-content"]')Ԫ�ؿɼ��ɹ�
+ Sun, 18 Aug 2019 17:19:15  INFO basepage.py wait_ele_visiable [ line:37 ] �ڵ�¼ҳ��-��ȡ�м�ҳ����ʾ��Ϣҳ��ȴ�('xpath', '//div[@class ="layui-layer-content"]')Ԫ�ؿɼ��ɹ�
+ Sun, 18 Aug 2019 17:19:15  INFO basepage.py find_ele [ line:65 ] �ڵ�¼ҳ��-��ȡ�м�ҳ����ʾ��Ϣ����('xpath', '//div[@class ="layui-layer-content"]')Ԫ�سɹ�����ʱΪ0:00:00.698428
+ Sun, 18 Aug 2019 17:19:15  INFO basepage.py get_text_ele [ line:109 ] �ڵ�¼ҳ��-��ȡ�м�ҳ����ʾ��Ϣҳ���ȡ('xpath', '//div[@class ="layui-layer-content"]')Ԫ�ص��ı�ֵ�ɹ�

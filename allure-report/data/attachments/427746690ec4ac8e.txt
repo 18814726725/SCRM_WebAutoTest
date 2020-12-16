@@ -1,0 +1,16 @@
+INFO     root:basepage.py:37 在登录页面—输入用户名页面等待('xpath', '// input[@name="phone"]')元素可见成功
+INFO     root:basepage.py:37 在登录页面—输入用户名页面等待('xpath', '// input[@name="phone"]')元素可见成功
+INFO     root:basepage.py:65 在登录页面—输入用户名查找('xpath', '// input[@name="phone"]')元素成功，耗时为0:00:00.056003
+INFO     root:basepage.py:94 在登录页面—输入用户名页面('xpath', '// input[@name="phone"]')元素输入18684720553成功
+INFO     root:basepage.py:37 在登录页面—输入密码页面等待('xpath', '//input[@name="password"]')元素可见成功
+INFO     root:basepage.py:37 在登录页面—输入密码页面等待('xpath', '//input[@name="password"]')元素可见成功
+INFO     root:basepage.py:65 在登录页面—输入密码查找('xpath', '//input[@name="password"]')元素成功，耗时为0:00:00.075004
+INFO     root:basepage.py:94 在登录页面—输入密码页面('xpath', '//input[@name="password"]')元素输入python4852成功
+INFO     root:basepage.py:37 在登陆页面-点击【登陆】按钮页面等待('xpath', '//button[@class="btn btn-special"]')元素可见成功
+INFO     root:basepage.py:37 在登陆页面-点击【登陆】按钮页面等待('xpath', '//button[@class="btn btn-special"]')元素可见成功
+INFO     root:basepage.py:65 在登陆页面-点击【登陆】按钮查找('xpath', '//button[@class="btn btn-special"]')元素成功，耗时为0:00:00.048003
+INFO     root:basepage.py:81 在登陆页面-点击【登陆】按钮点击('xpath', '//button[@class="btn btn-special"]')元素成功
+INFO     root:basepage.py:37 在登录页面-获取中间页的提示信息页面等待('xpath', '//div[@class ="layui-layer-content"]')元素可见成功
+INFO     root:basepage.py:37 在登录页面-获取中间页的提示信息页面等待('xpath', '//div[@class ="layui-layer-content"]')元素可见成功
+INFO     root:basepage.py:65 在登录页面-获取中间页的提示信息查找('xpath', '//div[@class ="layui-layer-content"]')元素成功，耗时为0:00:00.052003
+INFO     root:basepage.py:109 在登录页面-获取中间页的提示信息页面获取('xpath', '//div[@class ="layui-layer-content"]')元素的文本值成功

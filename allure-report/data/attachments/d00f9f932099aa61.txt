@@ -1,0 +1,14 @@
+ Sun, 18 Aug 2019 13:27:28  INFO basepage.py wait_ele_visiable [ line:37 ] �ڵ�¼ҳ�桪�����û���ҳ��ȴ�('xpath', '// input[@name="phone"]')Ԫ�ؿɼ��ɹ�
+ Sun, 18 Aug 2019 13:27:28  INFO basepage.py wait_ele_visiable [ line:37 ] �ڵ�¼ҳ�桪�����û���ҳ��ȴ�('xpath', '// input[@name="phone"]')Ԫ�ؿɼ��ɹ�
+ Sun, 18 Aug 2019 13:27:28  INFO basepage.py find_ele [ line:65 ] �ڵ�¼ҳ�桪�����û�������('xpath', '// input[@name="phone"]')Ԫ�سɹ�����ʱΪ0:00:00.540031
+ Sun, 18 Aug 2019 13:27:29  INFO basepage.py input_text_ele [ line:94 ] �ڵ�¼ҳ�桪�����û���ҳ��('xpath', '// input[@name="phone"]')Ԫ������18684720553�ɹ�
+ Sun, 18 Aug 2019 13:27:29  INFO basepage.py wait_ele_visiable [ line:37 ] �ڵ�¼ҳ�桪��������ҳ��ȴ�('xpath', '//input[@name="password"]')Ԫ�ؿɼ��ɹ�
+ Sun, 18 Aug 2019 13:27:30  INFO basepage.py wait_ele_visiable [ line:37 ] �ڵ�¼ҳ�桪��������ҳ��ȴ�('xpath', '//input[@name="password"]')Ԫ�ؿɼ��ɹ�
+ Sun, 18 Aug 2019 13:27:30  INFO basepage.py find_ele [ line:65 ] �ڵ�¼ҳ�桪�����������('xpath', '//input[@name="password"]')Ԫ�سɹ�����ʱΪ0:00:00.558032
+ Sun, 18 Aug 2019 13:27:30  INFO basepage.py input_text_ele [ line:94 ] �ڵ�¼ҳ�桪��������ҳ��('xpath', '//input[@name="password"]')Ԫ������python�ɹ�
+ Sun, 18 Aug 2019 13:27:31  INFO basepage.py wait_ele_visiable [ line:37 ] �ڵ�½ҳ��-�������½����ťҳ��ȴ�('xpath', '//button[@class="btn btn-special"]')Ԫ�ؿɼ��ɹ�
+ Sun, 18 Aug 2019 13:27:31  INFO basepage.py wait_ele_visiable [ line:37 ] �ڵ�½ҳ��-�������½����ťҳ��ȴ�('xpath', '//button[@class="btn btn-special"]')Ԫ�ؿɼ��ɹ�
+ Sun, 18 Aug 2019 13:27:31  INFO basepage.py find_ele [ line:65 ] �ڵ�½ҳ��-�������½����ť����('xpath', '//button[@class="btn btn-special"]')Ԫ�سɹ�����ʱΪ0:00:00.575033
+ Sun, 18 Aug 2019 13:27:32  INFO basepage.py click_ele [ line:81 ] �ڵ�½ҳ��-�������½����ť���('xpath', '//button[@class="btn btn-special"]')Ԫ�سɹ�
+ Sun, 18 Aug 2019 13:27:54  INFO basepage.py wait_ele_visiable [ line:37 ] ����ҳ-�û����˻��Ƿ����ҳ��ȴ�('xpath', '//a[text()="�ҵ��ʻ�[python10]"]')Ԫ�ؿɼ��ɹ�
+ Sun, 18 Aug 2019 13:27:55  INFO basepage.py find_ele [ line:65 ] ����ҳ-�û����˻��Ƿ���ڲ���('xpath', '//a[text()="�ҵ��ʻ�[python10]"]')Ԫ�سɹ�����ʱΪ0:00:22.769302

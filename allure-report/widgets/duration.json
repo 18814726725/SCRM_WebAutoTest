@@ -1,0 +1,71 @@
+[ {
+  "uid" : "99ea0689276bd6ad",
+  "name" : "test_login_nopasswd[data2]",
+  "time" : {
+    "start" : 1589607412299,
+    "stop" : 1589607412299,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "ccfd48ec1b6c8555",
+  "name" : "test_login_wrongpawwsd[data1]",
+  "time" : {
+    "start" : 1589607422802,
+    "stop" : 1589607422802,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "7c4176954c8c0a4f",
+  "name" : "test_login_wrongpawwsd[data0]",
+  "time" : {
+    "start" : 1589607417602,
+    "stop" : 1589607417602,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "786e9bec5b112c86",
+  "name" : "test_invest_sucess",
+  "time" : {
+    "start" : 1589607428531,
+    "stop" : 1589607428531,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "94c29476c59b87b5",
+  "name" : "test_login_success",
+  "time" : {
+    "start" : 1589607392097,
+    "stop" : 1589607392097,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "42f4dcebb5153b97",
+  "name" : "test_login_nopasswd[data0]",
+  "time" : {
+    "start" : 1589607402050,
+    "stop" : 1589607402051,
+    "duration" : 1
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "bdc8da37e420ff67",
+  "name" : "test_login_nopasswd[data1]",
+  "time" : {
+    "start" : 1589607407238,
+    "stop" : 1589607407238,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "normal"
+} ]

@@ -1,0 +1,39 @@
+ Sun, 18 Aug 2019 16:01:25  INFO basepage.py wait_ele_visiable [ line:37 ] �ڵ�¼ҳ�桪�����û���ҳ��ȴ�('xpath', '// input[@name="phone"]')Ԫ�ؿɼ��ɹ�
+ Sun, 18 Aug 2019 16:01:25  INFO basepage.py wait_ele_visiable [ line:37 ] �ڵ�¼ҳ�桪�����û���ҳ��ȴ�('xpath', '// input[@name="phone"]')Ԫ�ؿɼ��ɹ�
+ Sun, 18 Aug 2019 16:01:25  INFO basepage.py find_ele [ line:65 ] �ڵ�¼ҳ�桪�����û�������('xpath', '// input[@name="phone"]')Ԫ�سɹ�����ʱΪ0:00:00.561032
+ Sun, 18 Aug 2019 16:01:26  INFO basepage.py input_text_ele [ line:94 ] �ڵ�¼ҳ�桪�����û���ҳ��('xpath', '// input[@name="phone"]')Ԫ������18684720553�ɹ�
+ Sun, 18 Aug 2019 16:01:26  INFO basepage.py wait_ele_visiable [ line:37 ] �ڵ�¼ҳ�桪��������ҳ��ȴ�('xpath', '//input[@name="password"]')Ԫ�ؿɼ��ɹ�
+ Sun, 18 Aug 2019 16:01:27  INFO basepage.py wait_ele_visiable [ line:37 ] �ڵ�¼ҳ�桪��������ҳ��ȴ�('xpath', '//input[@name="password"]')Ԫ�ؿɼ��ɹ�
+ Sun, 18 Aug 2019 16:01:27  INFO basepage.py find_ele [ line:65 ] �ڵ�¼ҳ�桪�����������('xpath', '//input[@name="password"]')Ԫ�سɹ�����ʱΪ0:00:00.551031
+ Sun, 18 Aug 2019 16:01:27  INFO basepage.py input_text_ele [ line:94 ] �ڵ�¼ҳ�桪��������ҳ��('xpath', '//input[@name="password"]')Ԫ������python�ɹ�
+ Sun, 18 Aug 2019 16:01:28  INFO basepage.py wait_ele_visiable [ line:37 ] �ڵ�½ҳ��-�������½����ťҳ��ȴ�('xpath', '//button[@class="btn btn-special"]')Ԫ�ؿɼ��ɹ�
+ Sun, 18 Aug 2019 16:01:28  INFO basepage.py wait_ele_visiable [ line:37 ] �ڵ�½ҳ��-�������½����ťҳ��ȴ�('xpath', '//button[@class="btn btn-special"]')Ԫ�ؿɼ��ɹ�
+ Sun, 18 Aug 2019 16:01:28  INFO basepage.py find_ele [ line:65 ] �ڵ�½ҳ��-�������½����ť����('xpath', '//button[@class="btn btn-special"]')Ԫ�سɹ�����ʱΪ0:00:00.583033
+ Sun, 18 Aug 2019 16:01:29  INFO basepage.py click_ele [ line:81 ] �ڵ�½ҳ��-�������½����ť���('xpath', '//button[@class="btn btn-special"]')Ԫ�سɹ�
+ Sun, 18 Aug 2019 16:01:29  INFO test_1_invest.py init [ line:32 ] �����������ǰ�ã���������Ự��������ַ
+ Sun, 18 Aug 2019 16:01:51  INFO basepage.py wait_ele_visiable [ line:37 ] ����ҳ-�������Ͷ�꡿��ťҳ��ȴ�('xpath', '//a[@class="btn btn-special"]')Ԫ�ؿɼ��ɹ�
+ Sun, 18 Aug 2019 16:01:52  INFO basepage.py wait_ele_visiable [ line:37 ] ����ҳ-�������Ͷ�꡿��ťҳ��ȴ�('xpath', '//a[@class="btn btn-special"]')Ԫ�ؿɼ��ɹ�
+ Sun, 18 Aug 2019 16:01:52  INFO basepage.py find_ele [ line:65 ] ����ҳ-�������Ͷ�꡿��ť����('xpath', '//a[@class="btn btn-special"]')Ԫ�سɹ�����ʱΪ0:00:00.603035
+ Sun, 18 Aug 2019 16:02:16  INFO basepage.py click_ele [ line:81 ] ����ҳ-�������Ͷ�꡿��ť���('xpath', '//a[@class="btn btn-special"]')Ԫ�سɹ�
+ Sun, 18 Aug 2019 16:02:16  INFO test_1_invest.py test_invest_sucess [ line:50 ] --------Ͷ�ʲ�������������-Ͷ�ʳɹ�---------
+ Sun, 18 Aug 2019 16:02:16  INFO basepage.py wait_ele_visiable [ line:37 ] ��Ͷ��ҳ��-��ȡ�û��Ŀ������ҳ��ȴ�('xpath', '//input[@class="form-control invest-unit-investinput"]')Ԫ�ؿɼ��ɹ�
+ Sun, 18 Aug 2019 16:02:17  INFO basepage.py wait_ele_visiable [ line:37 ] ��Ͷ��ҳ��-��ȡ�û��Ŀ������ҳ��ȴ�('xpath', '//input[@class="form-control invest-unit-investinput"]')Ԫ�ؿɼ��ɹ�
+ Sun, 18 Aug 2019 16:02:17  INFO basepage.py find_ele [ line:65 ] ��Ͷ��ҳ��-��ȡ�û��Ŀ���������('xpath', '//input[@class="form-control invest-unit-investinput"]')Ԫ�سɹ�����ʱΪ0:00:00.601034
+ Sun, 18 Aug 2019 16:02:17  INFO basepage.py get_attribute_ele [ line:124 ] ��Ͷ��ҳ��-��ȡ�û��Ŀ������ҳ���ȡ('xpath', '//input[@class="form-control invest-unit-investinput"]')Ԫ�ص�data-amount���Գɹ�
+ Sun, 18 Aug 2019 16:02:17  INFO basepage.py wait_ele_visiable [ line:37 ] ��Ͷ��ҳ��-����Ͷ�ʽ��ҳ��ȴ�('xpath', '//input[@class="form-control invest-unit-investinput"]')Ԫ�ؿɼ��ɹ�
+ Sun, 18 Aug 2019 16:02:18  INFO basepage.py wait_ele_visiable [ line:37 ] ��Ͷ��ҳ��-����Ͷ�ʽ��ҳ��ȴ�('xpath', '//input[@class="form-control invest-unit-investinput"]')Ԫ�ؿɼ��ɹ�
+ Sun, 18 Aug 2019 16:02:18  INFO basepage.py find_ele [ line:65 ] ��Ͷ��ҳ��-����Ͷ�ʽ�����('xpath', '//input[@class="form-control invest-unit-investinput"]')Ԫ�سɹ�����ʱΪ0:00:00.517029
+ Sun, 18 Aug 2019 16:02:18  INFO basepage.py input_text_ele [ line:94 ] ��Ͷ��ҳ��-����Ͷ�ʽ��ҳ��('xpath', '//input[@class="form-control invest-unit-investinput"]')Ԫ������200�ɹ�
+ Sun, 18 Aug 2019 16:02:19  INFO basepage.py wait_ele_visiable [ line:37 ] ��Ͷ��ҳ��-�����Ͷ�꡿��ťҳ��ȴ�('xpath', '//button[@class="btn btn-special height_style"]')Ԫ�ؿɼ��ɹ�
+ Sun, 18 Aug 2019 16:02:19  INFO basepage.py wait_ele_visiable [ line:37 ] ��Ͷ��ҳ��-�����Ͷ�꡿��ťҳ��ȴ�('xpath', '//button[@class="btn btn-special height_style"]')Ԫ�ؿɼ��ɹ�
+ Sun, 18 Aug 2019 16:02:19  INFO basepage.py find_ele [ line:65 ] ��Ͷ��ҳ��-�����Ͷ�꡿��ť����('xpath', '//button[@class="btn btn-special height_style"]')Ԫ�سɹ�����ʱΪ0:00:00.587034
+ Sun, 18 Aug 2019 16:02:20  INFO basepage.py click_ele [ line:81 ] ��Ͷ��ҳ��-�����Ͷ�꡿��ť���('xpath', '//button[@class="btn btn-special height_style"]')Ԫ�سɹ�
+ Sun, 18 Aug 2019 16:02:21  INFO basepage.py wait_ele_visiable [ line:37 ] ��Ͷ�ʳɹ�ҳ��-������鿴�������ťҳ��ȴ�('xpath', '//div[@class="layui-layer-content"]//button[text()="�鿴������"]')Ԫ�ؿɼ��ɹ�
+ Sun, 18 Aug 2019 16:02:22  INFO basepage.py wait_ele_visiable [ line:37 ] ��Ͷ�ʳɹ�ҳ��-������鿴�������ťҳ��ȴ�('xpath', '//div[@class="layui-layer-content"]//button[text()="�鿴������"]')Ԫ�ؿɼ��ɹ�
+ Sun, 18 Aug 2019 16:02:22  INFO basepage.py find_ele [ line:65 ] ��Ͷ�ʳɹ�ҳ��-������鿴�������ť����('xpath', '//div[@class="layui-layer-content"]//button[text()="�鿴������"]')Ԫ�سɹ�����ʱΪ0:00:00.691040
+ Sun, 18 Aug 2019 16:02:47  INFO basepage.py click_ele [ line:81 ] ��Ͷ�ʳɹ�ҳ��-������鿴�������ť���('xpath', '//div[@class="layui-layer-content"]//button[text()="�鿴������"]')Ԫ�سɹ�
+ Sun, 18 Aug 2019 16:02:48  INFO basepage.py wait_ele_visiable [ line:37 ] ���û�����ҳ��-��ȡ�û��Ŀ������ҳ��ȴ�('xpath', '//li[@class="color_sub"]')Ԫ�ؿɼ��ɹ�
+ Sun, 18 Aug 2019 16:02:48  INFO basepage.py wait_ele_visiable [ line:37 ] ���û�����ҳ��-��ȡ�û��Ŀ������ҳ��ȴ�('xpath', '//li[@class="color_sub"]')Ԫ�ؿɼ��ɹ�
+ Sun, 18 Aug 2019 16:02:48  INFO basepage.py find_ele [ line:65 ] ���û�����ҳ��-��ȡ�û��Ŀ���������('xpath', '//li[@class="color_sub"]')Ԫ�سɹ�����ʱΪ0:00:00.571033
+ Sun, 18 Aug 2019 16:02:48  INFO basepage.py get_text_ele [ line:109 ] ���û�����ҳ��-��ȡ�û��Ŀ������ҳ���ȡ('xpath', '//li[@class="color_sub"]')Ԫ�ص��ı�ֵ�ɹ�
+ Sun, 18 Aug 2019 16:02:48  INFO test_1_invest.py init [ line:36 ] ����������ĺ��ã��ر�������Ự

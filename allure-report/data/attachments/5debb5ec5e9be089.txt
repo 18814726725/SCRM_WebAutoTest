@@ -1,0 +1,47 @@
+ Sun, 18 Aug 2019 17:19:24  INFO basepage.py wait_ele_visiable [ line:37 ] �ڵ�¼ҳ�桪�����û���ҳ��ȴ�('xpath', '// input[@name="phone"]')Ԫ�ؿɼ��ɹ�
+ Sun, 18 Aug 2019 17:19:24  INFO basepage.py wait_ele_visiable [ line:37 ] �ڵ�¼ҳ�桪�����û���ҳ��ȴ�('xpath', '// input[@name="phone"]')Ԫ�ؿɼ��ɹ�
+ Sun, 18 Aug 2019 17:19:24  INFO basepage.py find_ele [ line:65 ] �ڵ�¼ҳ�桪�����û�������('xpath', '// input[@name="phone"]')Ԫ�سɹ�����ʱΪ0:00:00.792636
+ Sun, 18 Aug 2019 17:19:25  INFO basepage.py input_text_ele [ line:94 ] �ڵ�¼ҳ�桪�����û���ҳ��('xpath', '// input[@name="phone"]')Ԫ������18684720553�ɹ�
+ Sun, 18 Aug 2019 17:19:26  INFO basepage.py wait_ele_visiable [ line:37 ] �ڵ�¼ҳ�桪��������ҳ��ȴ�('xpath', '//input[@name="password"]')Ԫ�ؿɼ��ɹ�
+ Sun, 18 Aug 2019 17:19:26  INFO basepage.py wait_ele_visiable [ line:37 ] �ڵ�¼ҳ�桪��������ҳ��ȴ�('xpath', '//input[@name="password"]')Ԫ�ؿɼ��ɹ�
+ Sun, 18 Aug 2019 17:19:26  INFO basepage.py find_ele [ line:65 ] �ڵ�¼ҳ�桪�����������('xpath', '//input[@name="password"]')Ԫ�سɹ�����ʱΪ0:00:00.635626
+ Sun, 18 Aug 2019 17:19:27  INFO basepage.py input_text_ele [ line:94 ] �ڵ�¼ҳ�桪��������ҳ��('xpath', '//input[@name="password"]')Ԫ������python�ɹ�
+ Sun, 18 Aug 2019 17:19:28  INFO basepage.py wait_ele_visiable [ line:37 ] �ڵ�½ҳ��-�������½����ťҳ��ȴ�('xpath', '//button[@class="btn btn-special"]')Ԫ�ؿɼ��ɹ�
+ Sun, 18 Aug 2019 17:19:28  INFO basepage.py wait_ele_visiable [ line:37 ] �ڵ�½ҳ��-�������½����ťҳ��ȴ�('xpath', '//button[@class="btn btn-special"]')Ԫ�ؿɼ��ɹ�
+ Sun, 18 Aug 2019 17:19:28  INFO basepage.py find_ele [ line:65 ] �ڵ�½ҳ��-�������½����ť����('xpath', '//button[@class="btn btn-special"]')Ԫ�سɹ�����ʱΪ0:00:00.888249
+ Sun, 18 Aug 2019 17:19:29  INFO basepage.py click_ele [ line:81 ] �ڵ�½ҳ��-�������½����ť���('xpath', '//button[@class="btn btn-special"]')Ԫ�سɹ�
+ Sun, 18 Aug 2019 17:19:29  INFO test_1_invest.py init [ line:32 ] �����������ǰ�ã���������Ự��������ַ
+ Sun, 18 Aug 2019 17:19:54  INFO basepage.py wait_ele_visiable [ line:37 ] ����ҳ-�������Ͷ�꡿��ťҳ��ȴ�('xpath', '//a[@class="btn btn-special"]')Ԫ�ؿɼ��ɹ�
+ Sun, 18 Aug 2019 17:19:55  INFO basepage.py wait_ele_visiable [ line:37 ] ����ҳ-�������Ͷ�꡿��ťҳ��ȴ�('xpath', '//a[@class="btn btn-special"]')Ԫ�ؿɼ��ɹ�
+ Sun, 18 Aug 2019 17:19:55  INFO basepage.py find_ele [ line:65 ] ����ҳ-�������Ͷ�꡿��ť����('xpath', '//a[@class="btn btn-special"]')Ԫ�سɹ�����ʱΪ0:00:00.600034
+ Sun, 18 Aug 2019 17:20:19  INFO basepage.py click_ele [ line:81 ] ����ҳ-�������Ͷ�꡿��ť���('xpath', '//a[@class="btn btn-special"]')Ԫ�سɹ�
+ Sun, 18 Aug 2019 17:20:19  INFO test_1_invest.py test_invest_sucess [ line:50 ] --------Ͷ�ʲ�������������-Ͷ�ʳɹ�---------
+ Sun, 18 Aug 2019 17:20:19  INFO basepage.py wait_ele_visiable [ line:37 ] ��Ͷ��ҳ��-��ȡ�û��Ŀ������ҳ��ȴ�('xpath', '//input[@class="form-control invest-unit-investinput"]')Ԫ�ؿɼ��ɹ�
+ Sun, 18 Aug 2019 17:20:20  INFO basepage.py wait_ele_visiable [ line:37 ] ��Ͷ��ҳ��-��ȡ�û��Ŀ������ҳ��ȴ�('xpath', '//input[@class="form-control invest-unit-investinput"]')Ԫ�ؿɼ��ɹ�
+ Sun, 18 Aug 2019 17:20:20  INFO basepage.py find_ele [ line:65 ] ��Ͷ��ҳ��-��ȡ�û��Ŀ���������('xpath', '//input[@class="form-control invest-unit-investinput"]')Ԫ�سɹ�����ʱΪ0:00:00.819047
+ Sun, 18 Aug 2019 17:20:20  INFO basepage.py get_attribute_ele [ line:124 ] ��Ͷ��ҳ��-��ȡ�û��Ŀ������ҳ���ȡ('xpath', '//input[@class="form-control invest-unit-investinput"]')Ԫ�ص�data-amount���Գɹ�
+ Sun, 18 Aug 2019 17:20:21  INFO basepage.py wait_ele_visiable [ line:37 ] ��Ͷ��ҳ��-����Ͷ�ʽ��ҳ��ȴ�('xpath', '//input[@class="form-control invest-unit-investinput"]')Ԫ�ؿɼ��ɹ�
+ Sun, 18 Aug 2019 17:20:21  INFO basepage.py wait_ele_visiable [ line:37 ] ��Ͷ��ҳ��-����Ͷ�ʽ��ҳ��ȴ�('xpath', '//input[@class="form-control invest-unit-investinput"]')Ԫ�ؿɼ��ɹ�
+ Sun, 18 Aug 2019 17:20:21  INFO basepage.py find_ele [ line:65 ] ��Ͷ��ҳ��-����Ͷ�ʽ�����('xpath', '//input[@class="form-control invest-unit-investinput"]')Ԫ�سɹ�����ʱΪ0:00:00.793045
+ Sun, 18 Aug 2019 17:20:22  INFO basepage.py input_text_ele [ line:94 ] ��Ͷ��ҳ��-����Ͷ�ʽ��ҳ��('xpath', '//input[@class="form-control invest-unit-investinput"]')Ԫ������200�ɹ�
+ Sun, 18 Aug 2019 17:20:23  INFO basepage.py wait_ele_visiable [ line:37 ] ��Ͷ��ҳ��-�����Ͷ�꡿��ťҳ��ȴ�('xpath', '//button[@class="btn btn-special height_style"]')Ԫ�ؿɼ��ɹ�
+ Sun, 18 Aug 2019 17:20:23  INFO basepage.py wait_ele_visiable [ line:37 ] ��Ͷ��ҳ��-�����Ͷ�꡿��ťҳ��ȴ�('xpath', '//button[@class="btn btn-special height_style"]')Ԫ�ؿɼ��ɹ�
+ Sun, 18 Aug 2019 17:20:23  INFO basepage.py find_ele [ line:65 ] ��Ͷ��ҳ��-�����Ͷ�꡿��ť����('xpath', '//button[@class="btn btn-special height_style"]')Ԫ�سɹ�����ʱΪ0:00:00.570032
+ Sun, 18 Aug 2019 17:20:24  INFO basepage.py click_ele [ line:81 ] ��Ͷ��ҳ��-�����Ͷ�꡿��ť���('xpath', '//button[@class="btn btn-special height_style"]')Ԫ�سɹ�
+ Sun, 18 Aug 2019 17:20:54  ERROR basepage.py wait_ele_visiable [ line:32 ] �ȴ�('xpath', '//div[@class="layui-layer-content"]//button[text()="�鿴������"]')Ԫ�ؿɼ�ʧ��
+Traceback (most recent call last):
+  File "D:\pytest_web_autotest\web_pageobject\basepage.py", line 29, in wait_ele_visiable
+    WebDriverWait(self.driver, timeout,frequency).until(EC.visibility_of_element_located(loc))
+  File "D:\Python\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+ Sun, 18 Aug 2019 17:20:55  ERROR basepage.py save_img [ line:162 ] ��ͼ�ɹ�����ͼ�����D:\pytest_web_autotest\Outputs/imgs\Ͷ�ʳɹ�ҳ��-������鿴�������ť_2019-08-18 17_20_54.png
+Traceback (most recent call last):
+  File "D:\pytest_web_autotest\web_pageobject\basepage.py", line 29, in wait_ele_visiable
+    WebDriverWait(self.driver, timeout,frequency).until(EC.visibility_of_element_located(loc))
+  File "D:\Python\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+ Sun, 18 Aug 2019 17:20:55  INFO test_1_invest.py init [ line:36 ] ����������ĺ��ã��ر�������Ự
