@@ -9,5 +9,8 @@
 
 # PageObject （分层设计）： 测试用例和测试对象分离开   好维护，好优化
 
-
 # 测试用例的三步曲：前置+后置、步骤、断言
+
+pip下载Python第三方库（通过国内源）
+pip install Python的第三方库名 -i https://pypi.tuna.tsinghua.edu.cn/simple --trusted-host pypi.tuna.tsinghua.edu.cn
+pip install pytest -i https://pypi.tuna.tsinghua.edu.cn/simple --trusted-host pypi.tuna.tsinghua.edu.cn

@@ -1,3 +1,4 @@
+# pip install pytest -i https://pypi.tuna.tsinghua.edu.cn/simple --trusted-host pypi.tuna.tsinghua.edu.cn
 import pytest
 if __name__ == '__main__':
     # 执行smoke标签的测试用例
